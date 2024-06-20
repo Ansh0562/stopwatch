@@ -1,0 +1,1 @@
+By combining HTML, CSS, and JavaScript, I have built a functional and interactive stopwatch web application that is both visually appealing and easy to use. This application allows users to start, pause, reset the timer, and record lap times, providing a comprehensive timing solution.
